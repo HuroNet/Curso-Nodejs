@@ -1,0 +1,1 @@
+const fs = require('fs/promises');///es uin modulo en version de promesas
