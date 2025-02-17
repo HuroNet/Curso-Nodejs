@@ -22,6 +22,6 @@ chatRoom.on('message', (user, message)=>{
     console.log(`New message from ${user} send a ${message}`)
 });
 
-chatRoom.join("calo");
-chatRoom.join("jeins")
-chatRoom.sendMessage("calo","hola a tods")
+// chatRoom.join("calo");
+// chatRoom.join("jeins")
+// chatRoom.sendMessage("calo","hola a tods")
